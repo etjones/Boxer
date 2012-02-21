@@ -1,0 +1,68 @@
+Trammell Hudson's Boxer program makes SVGs in patterns needed to laser cut Boxes.  
+
+I wasn't able to successfully export from Bitbucket to Github, so I'm attaching the original HG changelog below:
+
+changeset:   11:4960a0b20079
+bookmark:    master
+tag:         tip
+user:        Trammell Hudson <hudson@osresearch.net>
+date:        Mon Feb 20 17:28:30 2012 -0500
+summary:     power for 3mm
+
+changeset:   10:68c64aa282df
+user:        Trammell Hudson <hudson@osresearch.net>
+date:        Mon Feb 20 15:52:52 2012 -0500
+summary:     Increase spacing and make it an option
+
+changeset:   9:f2bd903f8de1
+user:        Trammell Hudson <hudson@osresearch.net>
+date:        Mon Feb 20 14:43:47 2012 -0500
+summary:     Center the fingers
+
+changeset:   8:8d2767f4a31c
+user:        Trammell Hudson <hudson@osresearch.net>
+date:        Mon Feb 20 14:02:13 2012 -0500
+summary:     Box works!
+
+changeset:   7:d00596b43192
+user:        Trammell Hudson <hudson@osresearch.net>
+date:        Mon Feb 20 13:45:38 2012 -0500
+summary:     Refactored entirely to use functions to generate each face; does not work right
+
+changeset:   6:6bc457e0d627
+user:        Trammell Hudson <hudson@osresearch.net>
+date:        Mon Feb 20 11:58:55 2012 -0500
+summary:     Command line parameters
+
+changeset:   5:1ae174ef44e5
+user:        Trammell Hudson <hudson@osresearch.net>
+date:        Sun Feb 19 19:13:04 2012 -0500
+summary:     Large box for wwward project
+
+changeset:   4:13af312e9cd8
+user:        Trammell Hudson <hudson@osresearch.net>
+date:        Sun Feb 19 17:14:47 2012 -0500
+summary:     Top and bottom work now
+
+changeset:   3:55a98b21ab23
+user:        Trammell Hudson <hudson@osresearch.net>
+date:        Sun Feb 19 16:51:56 2012 -0500
+summary:     kerf works
+
+changeset:   2:5c431181247f
+user:        Trammell Hudson <hudson@osresearch.net>
+date:        Sun Feb 19 16:02:06 2012 -0500
+summary:     Adjust fill
+
+changeset:   1:d4f777af91d9
+user:        Trammell Hudson <hudson@osresearch.net>
+date:        Sun Feb 19 13:40:53 2012 -0500
+summary:     Side generation tabs look better
+
+changeset:   0:6c9518119035
+user:        Trammell Hudson <hudson@osresearch.net>
+date:        Sun Feb 19 13:12:54 2012 -0500
+summary:     initial svg output works
+
+
+
